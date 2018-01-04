@@ -430,6 +430,246 @@
                 "resourceType": "GMSprite"
             }
         },
+	{
+            "Key": "02a8bab7-593f-4bd3-8396-f36a8f26f302",
+            "Value": {
+                "id": "66806c68-e464-4c99-956d-7af1216f4114",
+                "resourcePath": "sprites\\spr_mario_jump\\spr_mario_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0405266a-bcfd-49fe-a25b-2c9a23461456",
+            "Value": {
+                "id": "62d2390b-d29c-42ad-9f81-6ff25b562e7c",
+                "resourcePath": "sprites\\spr_mario_look_up\\spr_mario_look_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0a5a94a0-1126-4308-b8d4-ec968a427971",
+            "Value": {
+                "id": "3aaa3e09-caf1-49b6-9ec0-968db41e68a2",
+                "resourcePath": "sprites\\spr_mario_run_fast\\spr_mario_run_fast.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "123d6987-43e9-481f-ba49-ac5f2cc2c5e7",
+            "Value": {
+                "id": "3c7211fe-476b-489d-8ad8-c3f12d940f3a",
+                "resourcePath": "sprites\\spr_mario_stand\\spr_mario_stand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "169614b3-e6aa-4c0a-9c79-a9b6a5eeb7d1",
+            "Value": {
+                "id": "00b800c4-20e9-4e6f-b207-d04dc3b9cc0f",
+                "resourcePath": "sprites\\spr_mario_run_fast_up\\spr_mario_run_fast_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "187880f9-9033-4a1b-868b-f1e5fbb9526c",
+            "Value": {
+                "id": "3f521259-ab26-475e-acbe-c0451f77101b",
+                "resourcePath": "sprites\\spr_mario_float\\spr_mario_float.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25501531-8c96-48ee-87ea-7758ec01f2c3",
+            "Value": {
+                "id": "0a883086-75f6-4717-949e-a1b6dcaab54d",
+                "resourcePath": "sprites\\spr_mario_walk\\spr_mario_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4361beae-9873-45c9-a707-ef41c90963d1",
+            "Value": {
+                "id": "3d0b68fb-99df-45ea-9530-37ebd44213a6",
+                "resourcePath": "sprites\\spr_mario_sit\\spr_mario_sit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4807db70-8060-46b3-8d4d-5daa9fd8f76e",
+            "Value": {
+                "id": "3ad39cb7-f956-495e-92ae-f70547f27e31",
+                "resourcePath": "sprites\\spr_mario_swim\\spr_mario_swim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4da4ea0c-6fe9-44f3-be8f-69f032f86ffa",
+            "Value": {
+                "id": "29065701-bfd3-43f6-9203-05f198772ca6",
+                "resourcePath": "sprites\\spr_mario_swim_hold\\spr_mario_swim_hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "501545d6-0381-4c5b-9c3b-055fd35737c3",
+            "Value": {
+                "id": "ef98c5a4-e8ac-4d74-98d4-9b2b8d27be1b",
+                "resourcePath": "sprites\\spr_mario_fall\\spr_mario_fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6575cfd7-28f1-4f15-9ef4-dc617eff7d4b",
+            "Value": {
+                "id": "448ac147-0bb5-4403-ad24-ce9962fddb55",
+                "resourcePath": "sprites\\spr_mario_yoshi_win\\spr_mario_yoshi_win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e10a46b-f6a0-4efb-9a3b-b48ec62ac539",
+            "Value": {
+                "id": "38601b99-632e-445e-bec5-d47dfced43f5",
+                "resourcePath": "sprites\\spr_climb_front\\spr_climb_front.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e8f6c8b-5bbc-44ae-b483-5ffd5dea380b",
+            "Value": {
+                "id": "92e3defa-7b71-48a1-94a1-c45e90257f7e",
+                "resourcePath": "sprites\\spr_mario_look_up_hold\\spr_mario_look_up_hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "71ca7db4-e4df-4d69-b4e1-34791edc3dfb",
+            "Value": {
+                "id": "d287b63e-ecb6-4e06-a47f-1f9c74ad523f",
+                "resourcePath": "sprites\\spr_mario_run_fast_up_transition\\spr_mario_run_fast_up_transition.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "84a683e2-850b-4660-9724-e53b0e0da8a6",
+            "Value": {
+                "id": "358ba139-1780-4a02-aa8d-777c540c4d89",
+                "resourcePath": "sprites\\spr_mario_run_fast_hold\\spr_mario_run_fast_hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "95195b2e-fd16-4cee-9421-7bbd4e54e75c",
+            "Value": {
+                "id": "0512d3e2-af9f-44d0-adf6-61f34dad67a9",
+                "resourcePath": "sprites\\spr_mario_climb_back\\spr_mario_climb_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9c6306b2-e15d-4eeb-b185-f68b34d351be",
+            "Value": {
+                "id": "5b3dbf39-b7f7-478b-b146-c7e16316746d",
+                "resourcePath": "sprites\\spr_mario_duck\\spr_mario_duck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9232961-1f09-4cce-9434-97df3bbebf53",
+            "Value": {
+                "id": "7ba79635-a701-4818-bc8c-412ba0e34935",
+                "resourcePath": "sprites\\spr_mario_yoshi_attack\\spr_mario_yoshi_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ac62afaf-3a18-4745-80ad-b0a385732315",
+            "Value": {
+                "id": "33c43bda-4b10-449a-be16-c2b03ee0bb5e",
+                "resourcePath": "sprites\\spr_mario_duck_hold\\spr_mario_duck_hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b475c826-acfc-41ad-8cce-82efb7821c49",
+            "Value": {
+                "id": "79240b25-ce56-4ebe-bae3-9f55266efced",
+                "resourcePath": "sprites\\spr_mario_run_hold\\spr_mario_run_hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b638bd38-94d0-4458-aa7d-7d1cf52e1a45",
+            "Value": {
+                "id": "131b11c5-38a1-403e-a340-168844e3b1d9",
+                "resourcePath": "sprites\\spr_mario_yoshi_stand\\spr_mario_yoshi_stand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba55ca13-dfac-4859-83e9-b923b840b716",
+            "Value": {
+                "id": "9cb894d0-5f29-4339-80de-9bbd7badb03b",
+                "resourcePath": "sprites\\spr_mario_run_fast_jump\\spr_mario_run_fast_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c26fe9e8-2504-4b79-8ac3-beef2c57ea50",
+            "Value": {
+                "id": "2e2a794a-659a-49be-835d-c2e348330a59",
+                "resourcePath": "sprites\\spr_mario_stop\\spr_mario_stop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cf679f21-4869-4892-b70c-612c4dc2f6d8",
+            "Value": {
+                "id": "eb3a4342-b932-4d8c-930c-b0322503e725",
+                "resourcePath": "sprites\\spr_mario_win\\spr_mario_win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d3923bfa-4555-40fc-81a1-26ebb49e7e19",
+            "Value": {
+                "id": "f38c8906-eaa4-4cff-85cd-8d0ef4900a72",
+                "resourcePath": "sprites\\spr_mario_death\\spr_mario_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ebeee872-4e86-4c7a-b683-5a915a576df0",
+            "Value": {
+                "id": "ab8a39f9-b964-49cb-9b05-78ea1b53731d",
+                "resourcePath": "sprites\\spr_mario_climb_transition\\spr_mario_climb_transition.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f700e921-1cd6-4e0d-86b2-36bcd42a4e02",
+            "Value": {
+                "id": "a9deffa7-9d8a-4e10-8627-880ee0a125ad",
+                "resourcePath": "sprites\\spr_mario_stand_hold\\spr_mario_stand_hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa2d6c2c-3e44-4c30-a7e3-69dd4e016c4d",
+            "Value": {
+                "id": "70eb480b-e354-4c38-ae39-c836fcd4c0ed",
+                "resourcePath": "sprites\\spr_mario_run\\spr_mario_run.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd0829c6-6aaf-40e5-93d0-eba31e6a8449",
+            "Value": {
+                "id": "57e02a07-519c-4a32-9474-78a530231281",
+                "resourcePath": "sprites\\spr_mario_kick\\spr_mario_kick.yy",
+                "resourceType": "GMSprite"
+            }
+        },
         {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
