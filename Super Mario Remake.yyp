@@ -39,11 +39,51 @@
             }
         },
         {
+            "Key": "0408836b-e3ba-44a1-9252-b8bc0c9b8995",
+            "Value": {
+                "id": "2ec01c13-6061-42ac-8ddd-dc0c6c30ecb0",
+                "resourcePath": "sprites\\spr_Luigi_Sit\\spr_Luigi_Sit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f85434d-e9b1-46ae-bf40-eb71e5fa2228",
             "Value": {
                 "id": "743535ac-c9b5-43c3-a9f7-fe88418f3296",
                 "resourcePath": "views\\0f85434d-e9b1-46ae-bf40-eb71e5fa2228.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "112c845d-73ab-4ef2-bf7c-51cec8f4fa51",
+            "Value": {
+                "id": "474d5b37-7c7e-4afe-9fcb-6d27b9590e44",
+                "resourcePath": "sprites\\spr_Luigi_Run_Fast_Hold\\spr_Luigi_Run_Fast_Hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1377861c-bfff-424e-878e-353025e708e6",
+            "Value": {
+                "id": "d6f556fd-4bb9-4d83-b90d-c9dba4e4b6f5",
+                "resourcePath": "sprites\\sprLuigi_Float\\sprLuigi_Float.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "192d495f-cfa1-4193-ac93-0a3947423a68",
+            "Value": {
+                "id": "37cfb879-d87f-4916-bc08-9f2f29e8c3e0",
+                "resourcePath": "sprites\\spr_Luigi_Run_Fast_Up\\spr_Luigi_Run_Fast_Up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1fe6f109-894e-4da5-995f-f0f686ec1564",
+            "Value": {
+                "id": "562aa93e-9480-4bef-817e-57ef81243c4c",
+                "resourcePath": "sprites\\spr_Luigi_Climb_Back\\spr_Luigi_Climb_Back.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -68,6 +108,14 @@
                 "id": "eed962c3-a7f1-40ad-b9b5-e8f0216dc50d",
                 "resourcePath": "views\\395da556-b0b4-4843-9c1a-ce020e9b1a21.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3d2d56ab-c515-4484-9b6d-29844e14afa7",
+            "Value": {
+                "id": "494ad6cf-65f5-4849-85dc-43484c4781a6",
+                "resourcePath": "sprites\\spr_Luigi_Duck\\spr_Luigi_Duck.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -103,11 +151,35 @@
             }
         },
         {
+            "Key": "593f763b-1637-499f-b3b5-b2fe04ecb745",
+            "Value": {
+                "id": "cd1dddbc-e7dd-4f4f-98d7-608700fb430c",
+                "resourcePath": "sprites\\spr_Luigi_Run_Fast_Jump\\spr_Luigi_Run_Fast_Jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "59460444-87e2-4d5d-8ec1-9df0c6ff2391",
+            "Value": {
+                "id": "9b0a54f2-ad75-4c05-bd87-a8840f07472b",
+                "resourcePath": "sprites\\spr_Luigi_Run\\spr_Luigi_Run.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "60e6acef-f991-46d0-ab96-ed00ea1ea64a",
             "Value": {
                 "id": "c6ad31cc-95ed-4b87-b445-0209dbb21619",
                 "resourcePath": "views\\60e6acef-f991-46d0-ab96-ed00ea1ea64a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6470d5fa-c267-4323-9bc5-2c957d8feec9",
+            "Value": {
+                "id": "4a508615-3822-4808-83f7-70d9e2f8c00d",
+                "resourcePath": "sprites\\spr_Luigi_Stand_Holding\\spr_Luigi_Stand_Holding.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,11 +191,91 @@
             }
         },
         {
+            "Key": "6e659c54-17cd-4f40-af02-2baccf42326a",
+            "Value": {
+                "id": "1ca8eeb9-3a16-4c22-b10f-ef4a82809c95",
+                "resourcePath": "sprites\\spr_Luigi_Yoshi_Attack\\spr_Luigi_Yoshi_Attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7143db0a-c75c-4129-a258-7f9abbe031d4",
             "Value": {
                 "id": "e21719e2-771e-42ef-8ca3-b246ba54c8f2",
                 "resourcePath": "views\\7143db0a-c75c-4129-a258-7f9abbe031d4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7144b04f-668e-4920-bf40-4f9a222d6865",
+            "Value": {
+                "id": "98e071b3-b09b-44ba-8ebd-19eb6b2bc83a",
+                "resourcePath": "sprites\\spr_Luigi_Duck_Hold\\spr_Luigi_Duck_Hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "733cc401-1d41-41f8-aef2-215bd185af1c",
+            "Value": {
+                "id": "c2f2a60b-0147-4395-ac21-32062513cb2d",
+                "resourcePath": "sprites\\spr_Luigi_Win\\spr_Luigi_Win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "73fbfdb0-1bc8-4c59-a8bc-65edd497a4d8",
+            "Value": {
+                "id": "f7e4c5e5-2b08-47af-9ef6-9f86864c0bf5",
+                "resourcePath": "sprites\\spr_Luigi_walk\\spr_Luigi_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "76674ac2-44ef-4759-8204-f1ac7a23112f",
+            "Value": {
+                "id": "76262973-5a8f-48ed-9add-80e4d29bc04a",
+                "resourcePath": "sprites\\sprite30\\sprite30.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ba15742-c9fe-4d15-887b-bcb589f8b712",
+            "Value": {
+                "id": "4839b794-44be-4347-a132-4b3fac850141",
+                "resourcePath": "sprites\\spr_Luigi_Jump\\spr_Luigi_Jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "807c88f6-429b-45e3-88ac-24c718adf6a2",
+            "Value": {
+                "id": "fc811eb1-7ce8-4866-99c7-5f1bf42197cd",
+                "resourcePath": "sprites\\spr_Luigi_Swim_Hold\\spr_Luigi_Swim_Hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8766a795-eecb-4a7d-b7ae-1790c14b03ec",
+            "Value": {
+                "id": "8e71fee4-6de6-43fa-9bde-1c72895fcc78",
+                "resourcePath": "sprites\\spr_Luigi_Yoshi_Spin\\spr_Luigi_Yoshi_Spin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "898e3f18-657e-4b2a-bffe-2f7639b0326f",
+            "Value": {
+                "id": "21320561-d392-45e7-a8ed-3c3393e0191b",
+                "resourcePath": "sprites\\spr_Luigi_Fall\\spr_Luigi_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9464e450-94d0-4f09-bbe6-cb9dd95bf6e0",
+            "Value": {
+                "id": "90b4d49e-d40e-4702-aff6-4c2ca98a6b55",
+                "resourcePath": "sprites\\spr_Luigi_Run_Fast\\spr_Luigi_Run_Fast.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,11 +303,27 @@
             }
         },
         {
+            "Key": "9e9b67d5-c434-4812-9364-57f1944ff5eb",
+            "Value": {
+                "id": "9f40f49c-2beb-4788-9b20-c53e15d7e610",
+                "resourcePath": "sprites\\spr_Luigi_Run_Fast_Transition\\spr_Luigi_Run_Fast_Transition.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ea06c3b-b330-47e2-8446-47b1501bdf06",
             "Value": {
                 "id": "745660d1-7bc2-436c-a919-627debe4331a",
                 "resourcePath": "views\\9ea06c3b-b330-47e2-8446-47b1501bdf06.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a6963aca-b4b2-41f4-be4b-fc6fd5642b88",
+            "Value": {
+                "id": "95c22f25-d373-434a-b077-aa2083a8de63",
+                "resourcePath": "sprites\\spr_Luigi_Look_Up_Hold\\spr_Luigi_Look_Up_Hold.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,6 +335,46 @@
             }
         },
         {
+            "Key": "aa5ff3a7-adbe-4dd2-90f6-25bdc0bf3bed",
+            "Value": {
+                "id": "620d23c0-763a-4167-915c-b87f9738c1a1",
+                "resourcePath": "sprites\\spr_Luigi_Swim\\spr_Luigi_Swim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b7fea417-a4f0-446b-81bd-b5811ac625fb",
+            "Value": {
+                "id": "946f8a40-5f0b-4ec6-a943-400026de4586",
+                "resourcePath": "sprites\\spr_Luigi_Kick\\spr_Luigi_Kick.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc352da5-1ed0-458b-8199-9bf188427383",
+            "Value": {
+                "id": "a4021fef-c445-474a-9a95-9b0d76ebe90c",
+                "resourcePath": "sprites\\spr_Luigi_Yoshi_Stand\\spr_Luigi_Yoshi_Stand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bf26fa0f-0e95-4a4f-bc8f-338183f6fc7d",
+            "Value": {
+                "id": "d9ea192d-4e1a-445f-9a58-008e928afa07",
+                "resourcePath": "sprites\\spr_Luigi_Look_Up\\spr_Luigi_Look_Up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0341c20-b898-4341-a0e7-0a5fdb5a19c0",
+            "Value": {
+                "id": "70f64176-4711-4629-95c0-7fd76fd22722",
+                "resourcePath": "sprites\\spr_Luigi_stand\\spr_Luigi_stand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "386d6587-6ae5-4e9a-8966-eead3474b80b",
@@ -175,11 +383,51 @@
             }
         },
         {
+            "Key": "cfd68b03-f792-435d-b1ec-869400ccda91",
+            "Value": {
+                "id": "d5cb45f2-c181-4c1e-a226-e78fb39594cd",
+                "resourcePath": "sprites\\spr_Luigi_Death\\spr_Luigi_Death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2b9cf11-2d4b-4833-baaa-5c6fdf56352f",
+            "Value": {
+                "id": "d97872c2-d42d-4b6c-97a1-16c0eb2da346",
+                "resourcePath": "sprites\\spr_Luigi_Yoshi_Win\\spr_Luigi_Yoshi_Win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d412f6dc-25a6-46b2-b88e-2edd78ad3d1b",
+            "Value": {
+                "id": "9b5183c0-d10d-4294-b70c-41055acb1bba",
+                "resourcePath": "sprites\\spr_Luigi_Climb_Front\\spr_Luigi_Climb_Front.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "de901e8d-36c9-49bf-8570-6a783f665e11",
             "Value": {
                 "id": "8f29012f-06ab-4920-8785-213db4a545a5",
                 "resourcePath": "views\\de901e8d-36c9-49bf-8570-6a783f665e11.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef3727e3-45b8-4dfd-be0a-e4a0396d3ef4",
+            "Value": {
+                "id": "68cdfe73-bf77-4cf0-954e-16294b3d94ce",
+                "resourcePath": "sprites\\spr_Luigi_Stop\\spr_Luigi_Stop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1b383ed-e5f2-4c50-a01a-24127eaed9e2",
+            "Value": {
+                "id": "9c1fe331-e7f2-4924-a391-ec7818945669",
+                "resourcePath": "sprites\\spr_Luigi_Run_Hold\\spr_Luigi_Run_Hold.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
